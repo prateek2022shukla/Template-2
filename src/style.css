@@ -5,8 +5,7 @@
 }
 
 .page-title{
-    height:70px;
-    /* border: 1px solid red; */
+   
     background-color: rgb(206, 202, 202);
 }
 
@@ -15,9 +14,10 @@
     margin-left: 20px;
     padding-top: 18px;
     margin-left: 25px;
+    padding-bottom: 20px;
 }
 nav{
-    /* border: 1px solid red; */
+
     background-color: rgb(31, 30, 30);
     color: rgb(253, 253, 252);
 }
@@ -44,16 +44,14 @@ ul li:hover{
 }
 
 .middle{
-    /* border: 1px solid red; */
+  
     overflow: hidden;
-    /* height: 100px; */
     display: flex;
 }
 
 .left{
     width: 65%;
-    /* border: 1px solid green; */
-    height: 100%;
+   
     padding-left: 4%;
 }
 
@@ -62,8 +60,7 @@ h1#page-head{
 }
 .right{
     width: 35%;
-    /* border: 1px solid black; */
-    height: 100%;
+   
 }
 
 .left h1{
@@ -113,7 +110,6 @@ p#right-para{
 }
 
 footer{
-    height: 40px;
     background-color:rgb(162, 159, 159);
 }
 
@@ -122,4 +118,5 @@ p#copyright{
     padding-top: 12px;
     font-size: 15px;
     margin-right: 10px;
+    padding-bottom: 11px;
 }
